@@ -1,0 +1,22 @@
+.atividade-teatro {
+  background-color: #e8f0fe;
+}
+
+.atividade-futsal {
+  background-color: #e6ffe6;
+}
+
+.atividade-voluntariado {
+  background-color: #fff3cd;
+}
+
+.login {
+  text-align: left;
+  width: 450px;
+}
+
+.login2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
